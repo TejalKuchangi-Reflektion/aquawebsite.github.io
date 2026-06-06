@@ -1,34 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ns0:urlset xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <ns0:url>
-    <ns0:loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io</ns0:loc>
-    <ns0:lastmod>2026-06-05</ns0:lastmod>
-    <ns0:priority>1.00</ns0:priority>
-  </ns0:url>
+  <url>
+    <loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-  <ns0:url>
-    <ns0:loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/about.html</ns0:loc>
-    <ns0:lastmod>2026-06-05</ns0:lastmod>
-    <ns0:priority>0.80</ns0:priority>
-  </ns0:url>
+  <url>
+    <loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/about.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.80</priority>
+  </url>
 
-  <ns0:url>
-    <ns0:loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/products.html</ns0:loc>
-    <ns0:lastmod>2026-06-05</ns0:lastmod>
-    <ns0:priority>0.90</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/blog.html</ns0:loc>
-    <ns0:lastmod>2026-05-13</ns0:lastmod>
-    <ns0:priority>0.70</ns0:priority>
-  </ns0:url>
-
-  <ns0:url>
-    <ns0:loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/contact.html</ns0:loc>
-    <ns0:lastmod>2026-05-13</ns0:lastmod>
-    <ns0:priority>0.60</ns0:priority>
-  </ns0:url>
-
-</ns0:urlset>
+  <url>
+    <loc>https://tejalkuchangi-reflektion.github.io/aquawebsite.github.io/products.html</loc>
+    <lastmod>2026-05-13</lastmod>
+    <priority>0.90</priority>
+  </url>
+</urlset>
